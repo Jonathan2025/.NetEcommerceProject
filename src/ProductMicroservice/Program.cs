@@ -1,3 +1,6 @@
+// main entry point of the project, where services required by the app are configured
+// It includes the Startup.cs file's service registration and request pipeline configuration that was included in versions before .Net 6
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
