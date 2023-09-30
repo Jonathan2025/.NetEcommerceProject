@@ -3,7 +3,7 @@
 // Record types offer more readibility and immutability 
 
 
-using System
+using System;
 
 
 namespace ProductMicroservice.Dtos
